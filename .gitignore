@@ -1,1 +1,8 @@
+node_modules/
 .env
+dist/
+build/
+.vite/
+target/
+__pycache__/
+*.log
