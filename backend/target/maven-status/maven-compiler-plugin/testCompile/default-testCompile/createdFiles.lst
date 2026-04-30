@@ -1,0 +1,6 @@
+com\gencatalog\client\AiEngineClientTest.class
+com\gencatalog\service\CatalogServicePropertyTest$AlternatingAiEngineClient.class
+com\gencatalog\service\CsvParserServiceTest.class
+com\gencatalog\service\CatalogServiceTest.class
+com\gencatalog\controller\CatalogControllerTest.class
+com\gencatalog\service\CatalogServicePropertyTest.class

@@ -1,0 +1,12 @@
+C:\Users\abhir\Documents\GitHub\GenCatalog-AI\backend\src\main\java\com\gencatalog\GenCatalogApplication.java
+C:\Users\abhir\Documents\GitHub\GenCatalog-AI\backend\src\main\java\com\gencatalog\model\Product.java
+C:\Users\abhir\Documents\GitHub\GenCatalog-AI\backend\src\main\java\com\gencatalog\client\AiEngineClient.java
+C:\Users\abhir\Documents\GitHub\GenCatalog-AI\backend\src\main\java\com\gencatalog\controller\CatalogController.java
+C:\Users\abhir\Documents\GitHub\GenCatalog-AI\backend\src\main\java\com\gencatalog\model\CatalogResponse.java
+C:\Users\abhir\Documents\GitHub\GenCatalog-AI\backend\src\main\java\com\gencatalog\service\CsvParserService.java
+C:\Users\abhir\Documents\GitHub\GenCatalog-AI\backend\src\main\java\com\gencatalog\model\EnrichedProduct.java
+C:\Users\abhir\Documents\GitHub\GenCatalog-AI\backend\src\main\java\com\gencatalog\exception\AiEngineException.java
+C:\Users\abhir\Documents\GitHub\GenCatalog-AI\backend\src\main\java\com\gencatalog\config\WebConfig.java
+C:\Users\abhir\Documents\GitHub\GenCatalog-AI\backend\src\main\java\com\gencatalog\exception\CsvParseException.java
+C:\Users\abhir\Documents\GitHub\GenCatalog-AI\backend\src\main\java\com\gencatalog\service\CatalogService.java
+C:\Users\abhir\Documents\GitHub\GenCatalog-AI\backend\src\main\java\com\gencatalog\controller\GlobalExceptionHandler.java

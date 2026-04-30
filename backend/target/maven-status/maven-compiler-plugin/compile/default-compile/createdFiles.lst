@@ -1,0 +1,14 @@
+com\gencatalog\controller\CatalogController.class
+com\gencatalog\client\AiEngineClient$AiEngineResponse.class
+com\gencatalog\model\CatalogResponse.class
+com\gencatalog\config\WebConfig.class
+com\gencatalog\service\CsvParserService.class
+com\gencatalog\model\EnrichedProduct.class
+com\gencatalog\controller\GlobalExceptionHandler.class
+com\gencatalog\exception\AiEngineException.class
+com\gencatalog\controller\CatalogController$InvalidFileTypeException.class
+com\gencatalog\service\CatalogService.class
+com\gencatalog\GenCatalogApplication.class
+com\gencatalog\client\AiEngineClient.class
+com\gencatalog\exception\CsvParseException.class
+com\gencatalog\model\Product.class
