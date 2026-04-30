@@ -148,7 +148,7 @@ If you're still writing product descriptions manually:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiraj-dixit-6aa386313/)
 
-> *Sent you a connection request. No message. No note. Just vibes — because that's peak LinkedIn etiquette.* 😂
+> *Sent me a connection request. No message. No note. Just vibes - because that's peak LinkedIn etiquette.* 😂
 
 ---
 
