@@ -121,8 +121,13 @@ GenCatalog-AI/
 
 ## 🚀 Live Demo
 
-👉 [Add your deployed link here]
+<div align="center">
 
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Click%20Here-success?style=for-the-badge)](https://gen-catalog-ai.vercel.app)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000?style=for-the-badge&logo=vercel)](https://gen-catalog-ai.vercel.app)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white)](https://gen-catalog-ai.vercel.app)
+
+</div>
 ---
 
 ## ⚠️ Honest Notes
