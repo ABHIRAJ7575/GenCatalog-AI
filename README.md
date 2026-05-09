@@ -154,7 +154,7 @@ If you're still writing product descriptions manually:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45" />
 </a>
 
-> *Sent me a connection request. No message. No note. Just vibes — because that's peak LinkedIn etiquette.* 😂
+> *Sent me a connection request. No message. No note. Just vibes - because that's peak LinkedIn etiquette.* 😂
 
 ---
 
